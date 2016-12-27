@@ -1,0 +1,6 @@
+enit_demo_homepage:
+    path:     /name/{name}
+    defaults: { _controller: EnitDemoBundle:Default:index, name: World }
+    methods: GET
+    schemes: http
+    host: 127.0.0.1

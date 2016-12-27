@@ -1,0 +1,4 @@
+enit_demo:
+    resource: "@EnitDemoBundle/Resources/config/routing.yml"
+    prefix:   /
+
